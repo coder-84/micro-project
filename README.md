@@ -1,8 +1,8 @@
 
 README.md: This file, providing instructions and information about the project.
-Dependencies
-Bootstrap 3.4.1: CSS and JS framework for styling and responsiveness.
-jQuery 3.5.1: JavaScript library for simplified DOM manipulation.
+**Dependencies**
+1. Bootstrap 3.4.1: CSS and JS framework for styling and responsiveness.
+2. jQuery 3.5.1: JavaScript library for simplified DOM manipulation.
  
 **How to Run**
 1. Open the index.html file in a web browser.
