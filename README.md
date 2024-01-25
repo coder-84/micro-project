@@ -35,7 +35,8 @@ Benefits of using JsonPowerDB
 
 9. Click the [Reset] button at any time to reset the form to step 2.
 . **output**
- ![image](https://github.com/coder-84/micro-project/assets/90142563/b15ace34-5822-42c0-8d17-2385f5c9d7ae)
+ ![image](https://github.com/coder-84/micro-project/assets/90142563/5613534e-2f08-4851-ac65-d5af05882359)
+
 ![image](https://github.com/coder-84/micro-project/assets/90142563/91d5568e-c2bb-4b7f-915f-559c0ccdf99f)
 
 
