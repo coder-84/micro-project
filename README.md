@@ -1,5 +1,17 @@
+Title: Micro Project Work.
+**Overview**
+The Student Enrollment Form micro project is designed to create a web-based form for managing student data, specifically storing and updating information in the STUDENT-TABLE relation of the SCHOOL-DB database. The form includes essential input fields such as Roll No, Full Name, Class, Birth Date, Address, and Enrollment Date.
 
-README.md: This file, providing instructions and information about the project.
+Benefits of using JsonPowerDB
+1. Minimum Development Cost.
+2. Minimum Time to Market
+3. Minimize the complexity of interoperability of different applications
+4. Maximum data processing performance
+5.Technology Futuristic
+     ○ Fills gap from database to big-data
+     ○ Pluggable with new algorithms and pluggable and user defined API
+6. Minimize Total Cost of Ownership
+
 **Dependencies**
 1. Bootstrap 3.4.1: CSS and JS framework for styling and responsiveness.
 2. jQuery 3.5.1: JavaScript library for simplified DOM manipulation.
